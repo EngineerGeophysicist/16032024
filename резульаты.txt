@@ -1,0 +1,19 @@
+User
+Устройство: cuda
+epoch:   1 loss: 0.25349003, Device: cuda:0
+epoch:  26 loss: 0.46390104, Device: cuda:0
+epoch:  51 loss: 0.36500046, Device: cuda:0
+epoch:  76 loss: 0.50483328, Device: cuda:0
+epoch: 101 loss: 0.45278642, Device: cuda:0
+epoch: 126 loss: 0.33033174, Device: cuda:0
+Время выполнения: 378.7617299556732 секунд
+
+Устройство: cpu
+epoch:   1 loss: 0.29360974, Device: cpu
+epoch:  26 loss: 0.23013833, Device: cpu
+epoch:  51 loss: 0.20279257, Device: cpu
+epoch:  76 loss: 0.07767365, Device: cpu
+epoch: 101 loss: 0.05867715, Device: cpu
+epoch: 126 loss: 0.42094758, Device: cpu
+Время выполнения: 349.8088662624359 секунд
+
